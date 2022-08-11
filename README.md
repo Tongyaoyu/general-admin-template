@@ -30,6 +30,6 @@ react18 + react-router6 + redux + antd + less + echarts
 4. 启动项目 这因为作者用了craco，所以使用yarn来启动项目
 yarn start
 
-**作者邮箱：1057286890@qq.com，有问题问我可以发邮件，如果我会的话就回复您**
+**作者邮箱：1057286890@qq.com，有问题问我可以发邮件，看见就会回复您**
 
 **如果觉得还行的话，给个star支持一下吧 :)**
