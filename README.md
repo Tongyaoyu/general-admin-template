@@ -14,17 +14,19 @@ react18 + react-router6 + redux + antd + less + echarts
 * echarts(可视化图表)
 
 ## 截图
-![1660208810460](https://user-images.githubusercontent.com/53547222/184100433-c5c4ea30-d107-4603-a7f6-1bf12bc0131f.jpg)
+![1660209402510](https://user-images.githubusercontent.com/53547222/184102086-1ccb0c4d-e306-4644-9eef-71dc610876e4.jpg)
+
+![image](https://user-images.githubusercontent.com/53547222/184101769-50b345b3-06b0-4a7c-9500-b3238af902db.png)
 
 ![image](https://user-images.githubusercontent.com/53547222/184100692-b9e95426-c2c5-4aa2-bf8b-1618d7d46a8f.png)
 
 
 ## 安装运行
 
-1.下载或克隆项目源码
-2.npm install 安装所有的依赖
-3.yarn add @craco/craco    yarn add craco-less 安装craco，这里参考antd[官网](https://ant.design/docs/react/use-with-create-react-app-cn#%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98)，还要添加配置文件
-3.启动项目 这因为作者用了craco，所以使用yarn来启动项目
+1. 下载或克隆项目源码
+2. npm install 安装所有的依赖
+3. yarn add @craco/craco    yarn add craco-less 安装craco，这里参考antd[官网](https://ant.design/docs/react/use-with-create-react-app-cn#%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98)，还要添加配置文件
+4. 启动项目 这因为作者用了craco，所以使用yarn来启动项目
 yarn start
 
 如果觉得还行的话，给个star支持一下吧:)
