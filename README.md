@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+# general-admin-template
+react18 + react-router6 + redux + antd + less + echarts 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 前言
+作者在b站跟尚硅谷张天禹老师学习react，学完写个通用模板作为练手的小demo，所学的基本都用到，样式和antd官网的差不多，参考了一些其他的[项目](https://github.com/longchao726/react-hooks-admin)
 
-## Available Scripts
+## 技术栈
+* react (18.2.0版本)
+* react-router(6.3.0版本)
+* redux(基础用法，作者参考的[项目](https://github.com/longchao726/react-hooks-admin)用的mobx，感觉比redux简单得多)
+* antd(蚂蚁金服开源的 react ui 组件框架)
+* less(作者参考了antd[官网推荐](https://ant.design/docs/react/use-with-create-react-app-cn#%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98)的craco引入less，网上的方法都有很多坑)
+* echarts(可视化图表,[官网](https://echarts.apache.org/zh/index.html))
 
-In the project directory, you can run:
+## 截图
+![1660209591694](https://user-images.githubusercontent.com/53547222/184102561-77e5da06-ff74-46e2-bb04-2f0e4ffd75e4.jpg)
 
-### `npm start`
+![1660209842260](https://user-images.githubusercontent.com/53547222/184103319-aef07dea-765f-4398-8383-ada927f97b75.jpg)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://user-images.githubusercontent.com/53547222/184101769-50b345b3-06b0-4a7c-9500-b3238af902db.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![image](https://user-images.githubusercontent.com/53547222/184100692-b9e95426-c2c5-4aa2-bf8b-1618d7d46a8f.png)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 安装运行
 
-### `npm run build`
+1. 下载或克隆项目源码
+2. npm install 安装所有的依赖
+3. yarn add @craco/craco    yarn add craco-less 安装craco，这里参考antd[官网](https://ant.design/docs/react/use-with-create-react-app-cn#%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98)，还要添加配置文件
+4. 启动项目 这因为作者用了craco，所以使用yarn来启动项目
+yarn start
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+**如果觉得还行的话，给个star支持一下吧 :)**
