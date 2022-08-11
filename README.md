@@ -1,7 +1,7 @@
 # general-admin-template
 react18 + react-router6 + redux + antd + less + echarts 
 
-# 作者在b站跟尚硅谷张天禹老师学习，学完写个通用模板作为新手练手的小demo,参考了一些其他的项目
+### 作者在b站跟尚硅谷张天禹老师学习react，学完写个通用模板作为新手练手的小demo,参考了一些其他的项目
 
 点击名称可跳转相关网站 😄😄
 
