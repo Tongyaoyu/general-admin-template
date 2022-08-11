@@ -19,12 +19,16 @@ react18 + react-router6 + redux + antd + less + echarts
 * [项目四](https://github.com/yezihaohao/react-admin)
 
 ## 截图
+* 图一
 ![1660209591694](https://user-images.githubusercontent.com/53547222/184102561-77e5da06-ff74-46e2-bb04-2f0e4ffd75e4.jpg)
 
+* 图二
 ![1660209842260](https://user-images.githubusercontent.com/53547222/184103319-aef07dea-765f-4398-8383-ada927f97b75.jpg)
 
+* 图三
 ![image](https://user-images.githubusercontent.com/53547222/184101769-50b345b3-06b0-4a7c-9500-b3238af902db.png)
 
+* 图四
 ![image](https://user-images.githubusercontent.com/53547222/184100692-b9e95426-c2c5-4aa2-bf8b-1618d7d46a8f.png)
 
 
