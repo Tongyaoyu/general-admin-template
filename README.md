@@ -2,8 +2,7 @@
 react18 + react-router6 + redux + antd + less + echarts 
 
 ## 前言
-> 作者在b站跟尚硅谷张天禹老师学习react，学完写个通用模板作为新手练手的小demo,参考了一些其他的项目
-该项目是作者练习react所写，样式和antd官网的差不多，不会花里胡哨的样式
+作者在b站跟尚硅谷张天禹老师学习react，学完写个通用模板作为练手的小demo,样式和antd官网的差不多，参考了一些其他的项目
 
 ## 技术栈
 * react (18.2.0版本)
@@ -29,4 +28,4 @@ react18 + react-router6 + redux + antd + less + echarts
 4. 启动项目 这因为作者用了craco，所以使用yarn来启动项目
 yarn start
 
-如果觉得还行的话，给个star支持一下吧:)
+```text 如果觉得还行的话，给个star支持一下吧:)
