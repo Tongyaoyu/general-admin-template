@@ -12,6 +12,12 @@ react18 + react-router6 + redux + antd + less + echarts
 * less(作者参考了antd[官网推荐](https://ant.design/docs/react/use-with-create-react-app-cn#%E8%87%AA%E5%AE%9A%E4%B9%89%E4%B8%BB%E9%A2%98)的craco引入less，网上的方法都有很多坑)
 * echarts(可视化图表,[官网](https://echarts.apache.org/zh/index.html))
 
+## 参考项目
+* [项目一](https://github.com/longchao726/react-hooks-admin)
+* [项目二](https://github.com/mvpyb/react-ant-admin)
+* [项目三](https://github.com/ltadpoles/react-admin)
+* [项目四](https://github.com/yezihaohao/react-admin)
+
 ## 截图
 ![1660209591694](https://user-images.githubusercontent.com/53547222/184102561-77e5da06-ff74-46e2-bb04-2f0e4ffd75e4.jpg)
 
